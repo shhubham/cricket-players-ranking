@@ -1,0 +1,26 @@
+body{	margin:15px;
+	color: red;
+	background-color: #ffcf79;
+
+
+}
+
+h{font-size: 460%;
+color: black;
+}
+
+h1{ 	text-decoration:underline;
+	color: black;
+	text-align:center;
+	padding-top:40px;
+color: blue;
+	}
+
+p{
+	background-color: #e5f5d8;
+	border-color:black;
+	border-width:3px;
+	border-style:solid;
+	padding:15px;
+	
+}
